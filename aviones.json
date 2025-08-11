@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "modelo": "Gulfstream G700",
+    "fabricante": "Gulfstream Aerospace",
+    "categoria": "Jet Privado",
+    "anio": 2022,
+    "precio": 75000000,
+    "imagen": "https://a21.com.mx/wp-content/uploads/2025/06/imageERTYUI-5.jpg",
+    "detalles": {
+      "velocidad_maxima": "Mach 0.925 (1133 km/h)",
+      "alcance": "13,890 km",
+      "capacidad": "Hasta 19 pasajeros"
+    }
+  },
+  {
+    "id": 2,
+    "modelo": "Bombardier Global 8000",
+    "fabricante": "Bombardier Aviation",
+    "categoria": "Jet Privado",
+    "anio": 2025,
+    "precio": 78000000,
+    "imagen": "https://avionco.com/wp-content/uploads/2024/12/Avionco-LI-Dec-12.jpg",
+    "detalles": {
+      "velocidad_maxima": "Mach 0.94 (1152 km/h)",
+      "alcance": "14,816 km",
+      "capacidad": "Hasta 19 pasajeros"
+    }
+  },
+  {
+    "id": 3,
+    "modelo": "Dassault Falcon 10X",
+    "fabricante": "Dassault Aviation",
+    "categoria": "Jet Privado",
+    "anio": 2025,
+    "precio": 75000000,
+    "imagen": "https://www.dassaultfalcon.com/app/uploads/2022/09/10X_home.jpg",
+    "detalles": {
+      "velocidad_maxima": "Mach 0.925 (1133 km/h)",
+      "alcance": "13,900 km",
+      "capacidad": "Hasta 19 pasajeros"
+    }
+  },
+  {
+    "id": 4,
+    "modelo": "Cessna Citation Longitude",
+    "fabricante": "Textron Aviation",
+    "categoria": "Jet Privado",
+    "anio": 2019,
+    "precio": 27000000,
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHtOlQHDmRp-8LOzRjwkLTaYCV3f20vd3EVg&s",
+    "detalles": {
+      "velocidad_maxima": "895 km/h",
+      "alcance": "6,482 km",
+      "capacidad": "Hasta 12 pasajeros"
+    }
+  },
+  {
+    "id": 5,
+    "modelo": "Boeing 747-8 (VIP)",
+    "fabricante": "Boeing",
+    "categoria": "Avión Comercial",
+    "anio": 2011,
+    "precio": 418400000,
+    "imagen": "https://i.insider.com/61c4c082d73f5700124ea428?width=800&format=jpeg&auto=webp",
+    "detalles": {
+      "velocidad_maxima": "Mach 0.86 (914 km/h)",
+      "alcance": "14,320 km",
+      "capacidad": "Personalizable (VIP)"
+    }
+  },
+  {
+    "id": 6,
+    "modelo": "Airbus A380 (VIP 'Flying Palace')",
+    "fabricante": "Airbus",
+    "categoria": "Avión Comercial",
+    "anio": 2005,
+    "precio": 500000000,
+    "imagen": "https://aviationweek.com/sites/default/files/styles/crop_freeform/public/uploads/2015/01/a380vip.jpg?itok=4_WVtl79",
+    "detalles": {
+      "velocidad_maxima": "Mach 0.89 (945 km/h)",
+      "alcance": "15,200 km",
+      "capacidad": "Personalizable (VIP)"
+    }
+  },
+  {
+    "id": 7,
+    "modelo": "Lockheed Martin F-22 Raptor",
+    "fabricante": "Lockheed Martin / Boeing",
+    "categoria": "Militar",
+    "anio": 2005,
+    "precio": 150000000,
+    "imagen": "https://www.flugzeuginfo.net/acimages/f22_gregphelps.jpg",
+    "detalles": {
+      "velocidad_maxima": "Mach 2.25 (2414 km/h)",
+      "alcance": "2,960 km",
+      "capacidad": "1 piloto"
+    }
+  },
+  {
+    "id": 8,
+    "modelo": "Eurofighter Typhoon",
+    "fabricante": "Eurofighter GmbH",
+    "categoria": "Militar",
+    "anio": 2003,
+    "precio": 90000000,
+    "imagen": "https://actualidadaeroespacial.com/wp-content/uploads/2020/10/Eurofighter-de-Leonardo-261020.jpg",
+    "detalles": {
+      "velocidad_maxima": "Mach 2.0 (2495 km/h)",
+      "alcance": "2,900 km",
+      "capacidad": "1 o 2 pilotos"
+    }
+  },
+  {
+    "id": 9,
+    "modelo": "Embraer Phenom 300E",
+    "fabricante": "Embraer",
+    "categoria": "Jet Privado",
+    "anio": 2020,
+    "precio": 10000000,
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShG7iHkHe6LUrphvZEENDhhTAacc26WkgiUA&s",
+    "detalles": {
+      "velocidad_maxima": "834 km/h",
+      "alcance": "3,723 km",
+      "capacidad": "Hasta 10 pasajeros"
+    }
+  },
+  {
+    "id": 10,
+    "modelo": "Cirrus Vision Jet SF50",
+    "fabricante": "Cirrus Aircraft",
+    "categoria": "Jet Personal",
+    "anio": 2016,
+    "precio": 2850000,
+    "imagen": "https://images.squarespace-cdn.com/content/v1/613925643b785e5b5e3201f5/9eba32a4-d73f-492e-9ef9-717035bd1fd2/n506wc_notail%23.jpg",
+    "detalles": {
+      "velocidad_maxima": "560 km/h",
+      "alcance": "2,222 km",
+      "capacidad": "Hasta 7 ocupantes"
+    }
+  },
+  {
+    "id": 11,
+    "modelo": "Pilatus PC-24",
+    "fabricante": "Pilatus Aircraft",
+    "categoria": "Jet Privado",
+    "anio": 2018,
+    "precio": 11500000,
+    "imagen": "https://www.ainonline.com/cdn-cgi/image/width=1200,format=webp,quality=95/https://backend.ainonline.com/sites/default/files/styles/fpsc_1200x630/public/2024-05/Pilatus_PC-24_R7DM1565.jpg?h=61ce19a1&itok=ZGEHmgCk",
+    "detalles": {
+      "velocidad_maxima": "815 km/h",
+      "alcance": "3,704 km",
+      "capacidad": "Hasta 11 pasajeros"
+    }
+  },
+  {
+    "id": 12,
+    "modelo": "Concorde",
+    "fabricante": "Aérospatiale / BAC",
+    "categoria": "Supersónico",
+    "anio": 1976,
+    "precio": 2000000000,
+    "imagen": "https://www.infobae.com/new-resizer/02o2cE55G4_kawzFfMP4IX6IzHI=/arc-anglerfish-arc2-prod-infobae/public/GZRDAASHHZHWBCGO7CA47BFT6E.jpg",
+    "detalles": {
+      "velocidad_maxima": "Mach 2.04 (2179 km/h)",
+      "alcance": "7,250 km",
+      "capacidad": "100 pasajeros"
+    }
+  }
+]
