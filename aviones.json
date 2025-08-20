@@ -1,170 +1,74 @@
 [
-  {
-    "id": 1,
-    "modelo": "Gulfstream G700",
-    "fabricante": "Gulfstream Aerospace",
-    "categoria": "Jet Privado",
-    "anio": 2022,
-    "precio": 75000000,
-    "imagen": "https://a21.com.mx/wp-content/uploads/2025/06/imageERTYUI-5.jpg",
-    "detalles": {
-      "velocidad_maxima": "Mach 0.925 (1133 km/h)",
-      "alcance": "13,890 km",
-      "capacidad": "Hasta 19 pasajeros"
-    }
-  },
-  {
-    "id": 2,
-    "modelo": "Bombardier Global 8000",
-    "fabricante": "Bombardier Aviation",
-    "categoria": "Jet Privado",
-    "anio": 2025,
-    "precio": 78000000,
-    "imagen": "https://avionco.com/wp-content/uploads/2024/12/Avionco-LI-Dec-12.jpg",
-    "detalles": {
-      "velocidad_maxima": "Mach 0.94 (1152 km/h)",
-      "alcance": "14,816 km",
-      "capacidad": "Hasta 19 pasajeros"
-    }
-  },
-  {
-    "id": 3,
-    "modelo": "Dassault Falcon 10X",
-    "fabricante": "Dassault Aviation",
-    "categoria": "Jet Privado",
-    "anio": 2025,
-    "precio": 75000000,
-    "imagen": "https://www.dassaultfalcon.com/app/uploads/2022/09/10X_home.jpg",
-    "detalles": {
-      "velocidad_maxima": "Mach 0.925 (1133 km/h)",
-      "alcance": "13,900 km",
-      "capacidad": "Hasta 19 pasajeros"
-    }
-  },
-  {
-    "id": 4,
-    "modelo": "Cessna Citation Longitude",
-    "fabricante": "Textron Aviation",
-    "categoria": "Jet Privado",
-    "anio": 2019,
-    "precio": 27000000,
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHtOlQHDmRp-8LOzRjwkLTaYCV3f20vd3EVg&s",
-    "detalles": {
-      "velocidad_maxima": "895 km/h",
-      "alcance": "6,482 km",
-      "capacidad": "Hasta 12 pasajeros"
-    }
-  },
-  {
-    "id": 5,
-    "modelo": "Boeing 747-8 (VIP)",
-    "fabricante": "Boeing",
-    "categoria": "Avión Comercial",
-    "anio": 2011,
-    "precio": 418400000,
-    "imagen": "https://i.insider.com/61c4c082d73f5700124ea428?width=800&format=jpeg&auto=webp",
-    "detalles": {
-      "velocidad_maxima": "Mach 0.86 (914 km/h)",
-      "alcance": "14,320 km",
-      "capacidad": "Personalizable (VIP)"
-    }
-  },
-  {
-    "id": 6,
-    "modelo": "Airbus A380 (VIP 'Flying Palace')",
-    "fabricante": "Airbus",
-    "categoria": "Avión Comercial",
-    "anio": 2005,
-    "precio": 500000000,
-    "imagen": "https://aviationweek.com/sites/default/files/styles/crop_freeform/public/uploads/2015/01/a380vip.jpg?itok=4_WVtl79",
-    "detalles": {
-      "velocidad_maxima": "Mach 0.89 (945 km/h)",
-      "alcance": "15,200 km",
-      "capacidad": "Personalizable (VIP)"
-    }
-  },
-  {
-    "id": 7,
-    "modelo": "Lockheed Martin F-22 Raptor",
-    "fabricante": "Lockheed Martin / Boeing",
-    "categoria": "Militar",
-    "anio": 2005,
-    "precio": 150000000,
-    "imagen": "https://www.flugzeuginfo.net/acimages/f22_gregphelps.jpg",
-    "detalles": {
-      "velocidad_maxima": "Mach 2.25 (2414 km/h)",
-      "alcance": "2,960 km",
-      "capacidad": "1 piloto"
-    }
-  },
-  {
-    "id": 8,
-    "modelo": "Eurofighter Typhoon",
-    "fabricante": "Eurofighter GmbH",
-    "categoria": "Militar",
-    "anio": 2003,
-    "precio": 90000000,
-    "imagen": "https://actualidadaeroespacial.com/wp-content/uploads/2020/10/Eurofighter-de-Leonardo-261020.jpg",
-    "detalles": {
-      "velocidad_maxima": "Mach 2.0 (2495 km/h)",
-      "alcance": "2,900 km",
-      "capacidad": "1 o 2 pilotos"
-    }
-  },
-  {
-    "id": 9,
-    "modelo": "Embraer Phenom 300E",
-    "fabricante": "Embraer",
-    "categoria": "Jet Privado",
-    "anio": 2020,
-    "precio": 10000000,
-    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShG7iHkHe6LUrphvZEENDhhTAacc26WkgiUA&s",
-    "detalles": {
-      "velocidad_maxima": "834 km/h",
-      "alcance": "3,723 km",
-      "capacidad": "Hasta 10 pasajeros"
-    }
-  },
-  {
-    "id": 10,
-    "modelo": "Cirrus Vision Jet SF50",
-    "fabricante": "Cirrus Aircraft",
-    "categoria": "Jet Personal",
-    "anio": 2016,
-    "precio": 2850000,
-    "imagen": "https://images.squarespace-cdn.com/content/v1/613925643b785e5b5e3201f5/9eba32a4-d73f-492e-9ef9-717035bd1fd2/n506wc_notail%23.jpg",
-    "detalles": {
-      "velocidad_maxima": "560 km/h",
-      "alcance": "2,222 km",
-      "capacidad": "Hasta 7 ocupantes"
-    }
-  },
-  {
-    "id": 11,
-    "modelo": "Pilatus PC-24",
-    "fabricante": "Pilatus Aircraft",
-    "categoria": "Jet Privado",
-    "anio": 2018,
-    "precio": 11500000,
-    "imagen": "https://www.ainonline.com/cdn-cgi/image/width=1200,format=webp,quality=95/https://backend.ainonline.com/sites/default/files/styles/fpsc_1200x630/public/2024-05/Pilatus_PC-24_R7DM1565.jpg?h=61ce19a1&itok=ZGEHmgCk",
-    "detalles": {
-      "velocidad_maxima": "815 km/h",
-      "alcance": "3,704 km",
-      "capacidad": "Hasta 11 pasajeros"
-    }
-  },
-  {
-    "id": 12,
-    "modelo": "Concorde",
-    "fabricante": "Aérospatiale / BAC",
-    "categoria": "Supersónico",
-    "anio": 1976,
-    "precio": 2000000000,
-    "imagen": "https://www.infobae.com/new-resizer/02o2cE55G4_kawzFfMP4IX6IzHI=/arc-anglerfish-arc2-prod-infobae/public/GZRDAASHHZHWBCGO7CA47BFT6E.jpg",
-    "detalles": {
-      "velocidad_maxima": "Mach 2.04 (2179 km/h)",
-      "alcance": "7,250 km",
-      "capacidad": "100 pasajeros"
-    }
-  }
+  { "id": 1, "modelo": "Gulfstream G700", "fabricante": "Gulfstream Aerospace", "categoria": "Jet Privado", "anio": 2022, "precio": 75000000, "imagen": "https://www.aircharter.com/wp-content/uploads/2022/12/348_r7dm0072.jpg", "detalles": { "velocidad_maxima": "Mach 0.925", "alcance": "13,890 km", "capacidad": "19 pasajeros" } },
+  { "id": 2, "modelo": "Bombardier Global 8000", "fabricante": "Bombardier Aviation", "categoria": "Jet Privado", "anio": 2025, "precio": 81000000, "imagen": "https://aerocorner.com/wp-content/uploads/2020/02/Bombardier-Global-8000.jpg", "detalles": { "velocidad_maxima": "Mach 0.94", "alcance": "14,816 km", "capacidad": "19 pasajeros" } },
+  { "id": 3, "modelo": "Dassault Falcon 10X", "fabricante": "Dassault Aviation", "categoria": "Jet Privado", "anio": 2025, "precio": 75000000, "imagen": "https://www.dassaultfalcon.com/app/uploads/2022/09/10X_home.jpg", "detalles": { "velocidad_maxima": "Mach 0.925", "alcance": "13,900 km", "capacidad": "19 pasajeros" } },
+  { "id": 4, "modelo": "Cessna Citation Longitude", "fabricante": "Textron Aviation", "categoria": "Jet Privado", "anio": 2019, "precio": 27000000, "imagen": "https://www.wingsmagazine.com/wp-content/uploads/2021/07/1200-Longitude.jpg", "detalles": { "velocidad_maxima": "895 km/h", "alcance": "6,482 km", "capacidad": "12 pasajeros" } },
+  { "id": 9, "modelo": "Embraer Phenom 300E", "fabricante": "Embraer", "categoria": "Jet Privado", "anio": 2020, "precio": 10000000, "imagen": "https://tse1.mm.bing.net/th/id/OIP.1KylIYtCxbL60eMVeoW-ygHaE8?rs=1&pid=ImgDetMain&o=7&rm=3", "detalles": { "velocidad_maxima": "834 km/h", "alcance": "3,723 km", "capacidad": "10 pasajeros" } },
+  { "id": 11, "modelo": "Pilatus PC-24", "fabricante": "Pilatus Aircraft", "categoria": "Jet Privado", "anio": 2018, "precio": 11500000, "imagen": "https://imgproc.airliners.net/photos/airliners/5/2/8/7126825.jpg?v=v412817a0bca", "detalles": { "velocidad_maxima": "815 km/h", "alcance": "3,704 km", "capacidad": "11 pasajeros" } },
+  { "id": 13, "modelo": "HondaJet Elite II", "fabricante": "Honda Aircraft Company", "categoria": "Jet Privado", "anio": 2022, "precio": 6950000, "imagen": "https://www.ainonline.com/cdn-cgi/image/width=3840,format=webp,quality=95/http://backend.ainonline.com/sites/default/files/styles/fpsc_1200x630/public/uploads/2023/05/5dwm2033web.jpg?h=95ffb99b&itok=QYCPzd3h", "detalles": { "velocidad_maxima": "782 km/h", "alcance": "2,865 km", "capacidad": "7 pasajeros" } },
+  { "id": 14, "modelo": "Learjet 75 Liberty", "fabricante": "Bombardier Aviation", "categoria": "Jet Privado", "anio": 2021, "precio": 9900000, "imagen": "https://actu-aero.fr/wp-content/uploads/2020/02/Learjet_75_Liberty_Bombardier.jpg", "detalles": { "velocidad_maxima": "860 km/h", "alcance": "3,852 km", "capacidad": "9 pasajeros" } },
+  { "id": 28, "modelo": "Cessna Citation X+", "fabricante": "Textron Aviation", "categoria": "Jet Privado", "anio": 2018, "precio": 23000000, "imagen": "https://jetsplore.com/wp-content/uploads/2022/06/CITATION-XA.jpg", "detalles": { "velocidad_maxima": "Mach 0.935", "alcance": "6,408 km", "capacidad": "12 pasajeros" } },
+  { "id": 29, "modelo": "Dassault Falcon 8X", "fabricante": "Dassault Aviation", "categoria": "Jet Privado", "anio": 2016, "precio": 58000000, "imagen": "https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2021-02/falcon8x.1.jpg?itok=HKMzUhFJ", "detalles": { "velocidad_maxima": "Mach 0.90", "alcance": "11,945 km", "capacidad": "16 pasajeros" } },
+  { "id": 5, "modelo": "Boeing 787 Dreamliner (BBJ)", "fabricante": "Boeing", "categoria": "Avión Comercial VIP", "anio": 2018, "precio": 250000000, "imagen": "https://th.bing.com/th/id/R.7c2ff4c45c27da41be7ce3baaaebe4e9?rik=JYZrrHz2LgeG9w&pid=ImgRaw&r=0", "detalles": { "velocidad_maxima": "954 km/h", "alcance": "18,418 km", "capacidad": "40 (VIP)" } },
+  { "id": 6, "modelo": "Airbus A350 XWB (ACJ)", "fabricante": "Airbus", "categoria": "Avión Comercial VIP", "anio": 2020, "precio": 320000000, "imagen": "https://th.bing.com/th/id/R.b1ec1095f72bfe477db7a45f8268bb4a?rik=Ckn45RhKGWURlg&riu=http%3a%2f%2fairlinestravel.ro%2fwp-content%2fuploads%2f2012%2f04%2fboeing-787-dreamliner.jpg&ehk=pO8mrYQ6%2fZOls2Wf%2fVdb3abIewZDVXRQ1ummVCdo75E%3d&risl=&pid=ImgRaw&r=0", "detalles": { "velocidad_maxima": "945 km/h", "alcance": "20,000 km", "capacidad": "25 (VIP)" } },
+  { "id": 15, "modelo": "Boeing 777X (BBJ)", "fabricante": "Boeing", "categoria": "Avión Comercial VIP", "anio": 2023, "precio": 442200000, "imagen": "https://desejoluxo.com.br/wp-content/uploads/2018/12/bbj0.jpg", "detalles": { "velocidad_maxima": "945 km/h", "alcance": "20,370 km", "capacidad": "75 (VIP)" } },
+  { "id": 16, "modelo": "Embraer Lineage 1000E", "fabricante": "Embraer", "categoria": "Avión Comercial VIP", "anio": 2017, "precio": 53000000, "imagen": "https://privatejetcharter.com/wp-content/uploads/2018/01/Lineage-1000.jpg", "detalles": { "velocidad_maxima": "871 km/h", "alcance": "8,519 km", "capacidad": "19 (VIP)" } },
+  { "id": 30, "modelo": "Airbus A320neo (ACJ)", "fabricante": "Airbus", "categoria": "Avión Comercial VIP", "anio": 2019, "precio": 110000000, "imagen": "https://th.bing.com/th/id/R.30ce3f2adf8bab50c81666b40e1ec75f?rik=QMhViV4Nf%2fxRcA&pid=ImgRaw&r=0", "detalles": { "velocidad_maxima": "871 km/h", "alcance": "11,100 km", "capacidad": "25 (VIP)" } },
+  { "id": 31, "modelo": "Boeing 737 MAX 7 (BBJ)", "fabricante": "Boeing", "categoria": "Avión Comercial VIP", "anio": 2021, "precio": 99700000, "imagen": "https://tse1.mm.bing.net/th/id/OIP.YocUV6WfoF_TL93GxH4aFAHaE6?rs=1&pid=ImgDetMain&o=7&rm=3", "detalles": { "velocidad_maxima": "871 km/h", "alcance": "12,964 km", "capacidad": "30 (VIP)" } },
+  { "id": 32, "modelo": "Sukhoi Superjet 100 (SBJ)", "fabricante": "Sukhoi", "categoria": "Avión Comercial VIP", "anio": 2014, "precio": 50000000, "imagen": "https://th.bing.com/th/id/R.8b2d14a3a109168734b212e266ab32a9?rik=S8Z0SJ%2bmgKssew&riu=http%3a%2f%2falineport.com%2fsites%2fdefault%2ffiles%2ffield%2fimage%2faircrafts%2fssj100%2fsukhoi-superjet-100-regional-jet.jpg&ehk=Dnx%2fpPJ5IVYE5BbMLswQwV1PAhTYFGZqyaQmX6goJ08%3d&risl=&pid=ImgRaw&r=0", "detalles": { "velocidad_maxima": "870 km/h", "alcance": "7,880 km", "capacidad": "19 (VIP)" } },
+  { "id": 33, "modelo": "Gulfstream G650ER (VIP Airliner)", "fabricante": "Gulfstream Aerospace", "categoria": "Avión Comercial VIP", "anio": 2014, "precio": 70000000, "imagen": "https://monarchairgroup.com/wp-content/uploads/2023/03/gulfstream-g650er-charter.jpg", "detalles": { "velocidad_maxima": "Mach 0.925", "alcance": "13,890 km", "capacidad": "18 (VIP)" } },
+  { "id": 34, "modelo": "Airbus A220 (ACJ TwoTwenty)", "fabricante": "Airbus", "categoria": "Avión Comercial VIP", "anio": 2023, "precio": 81000000, "imagen": "https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2020-10/acj22.jpg?itok=KXVuIC6t", "detalles": { "velocidad_maxima": "871 km/h", "alcance": "10,500 km", "capacidad": "18 (VIP)" } },
+  { "id": 35, "modelo": "Boeing 747-8 (BBJ)", "fabricante": "Boeing", "categoria": "Avión Comercial VIP", "anio": 2012, "precio": 418400000, "imagen": "https://bjtonline.com/sites/default/files/amacweb-boeing-bbj-747-8.jpg", "detalles": { "velocidad_maxima": "Mach 0.86", "alcance": "14,320 km", "capacidad": "100 (VIP)" } },
+  { "id": 5, "modelo": "Boeing 787 Dreamliner (BBJ)", "fabricante": "Boeing", "categoria": "Avión Comercial VIP", "anio": 2018, "precio": 250000000, "imagen": "https://imgproc.airliners.net/photos/airliners/5/3/2/7133235.jpg?v=v44c14124879", "detalles": { "velocidad_maxima": "954 km/h", "alcance": "18,418 km", "capacidad": "40 (VIP)" } },
+  { "id": 6, "modelo": "Airbus A350 XWB (ACJ)", "fabricante": "Airbus", "categoria": "Avión Comercial VIP", "anio": 2020, "precio": 320000000, "imagen": "https://live.staticflickr.com/65535/49621817347_bb2971477e_b.jpg", "detalles": { "velocidad_maxima": "945 km/h", "alcance": "20,000 km", "capacidad": "25 (VIP)" } },
+  { "id": 15, "modelo": "Boeing 777X (BBJ)", "fabricante": "Boeing", "categoria": "Avión Comercial VIP", "anio": 2023, "precio": 442200000, "imagen": "https://i.pinimg.com/originals/93/f1/ac/93f1ac5e25073b63f1d196ba79615a99.jpg", "detalles": { "velocidad_maxima": "945 km/h", "alcance": "20,370 km", "capacidad": "75 (VIP)" } },
+  { "id": 16, "modelo": "Embraer Lineage 1000E", "fabricante": "Embraer", "categoria": "Avión Comercial VIP", "anio": 2017, "precio": 53000000, "imagen": "https://th.bing.com/th/id/R.bcd9048e2e49d9c8cc584c8fe3cd5034?rik=YtXl0xCxf2sumg&riu=http%3a%2f%2fwww.bjtonline.com%2fsites%2fbjtonline.com%2ffiles%2fembraer-lineage-1000-tour-thumbnail.jpg&ehk=JfI12DGd7WXvikvZBQCuOgh7xWuGleqK3jmasd1rjFg%3d&risl=&pid=ImgRaw&r=0", "detalles": { "velocidad_maxima": "871 km/h", "alcance": "8,519 km", "capacidad": "19 (VIP)" } },
+
+  { "id": 7, "modelo": "Lockheed Martin F-35 Lightning II", "fabricante": "Lockheed Martin", "categoria": "Militar", "anio": 2015, "precio": 80000000, "imagen": "https://th.bing.com/th/id/R.22c2b51c54686607388e1d51271b6c7e?rik=UjiBfSO1muA9tw&riu=http%3a%2f%2f2.bp.blogspot.com%2f-M_OMwANg8XU%2fTuuA4pt26JI%2fAAAAAAAAAQg%2fzykeKynpVbY%2fs1600%2fF-35%252BLightning%252BII%252BJoint%252BStrike%252BFighter2.jpg&ehk=r8gF8jtszLdoDgVqvJvwmrKpi2pZvtyTcKnt5K1mtG0%3d&risl=&pid=ImgRaw&r=0", "detalles": { "velocidad_maxima": "Mach 1.6", "alcance": "2,220 km", "capacidad": "1 piloto" } },
+  { "id": 8, "modelo": "Eurofighter Typhoon", "fabricante": "Eurofighter GmbH", "categoria": "Militar", "anio": 2003, "precio": 90000000, "imagen": "https://tse3.mm.bing.net/th/id/OIP.Xdxh4xGX6M9B8a2Tm2gw2wHaEb?rs=1&pid=ImgDetMain&o=7&rm=3", "detalles": { "velocidad_maxima": "Mach 2.0", "alcance": "2,900 km", "capacidad": "1-2 pilotos" } },
+  { "id": 17, "modelo": "Dassault Rafale", "fabricante": "Dassault Aviation", "categoria": "Militar", "anio": 2001, "precio": 85000000, "imagen": "https://th.bing.com/th/id/R.2fd0531b2d57f9a0ee7108afac6ee356?rik=DdvudUsMLwaiyw&riu=http%3a%2f%2fimgproc.airliners.net%2fphotos%2fairliners%2f5%2f9%2f8%2f4420895.jpg%3fv%3dv43559a29e91&ehk=TRn3egvLhLuIwrGk6yhbcvWa6%2fx54H4Femh1vvRF4Gk%3d&risl=&pid=ImgRaw&r=0", "detalles": { "velocidad_maxima": "Mach 1.8", "alcance": "3,700 km", "capacidad": "1-2 pilotos" } },
+  { "id": 18, "modelo": "Sukhoi Su-57", "fabricante": "Sukhoi", "categoria": "Militar", "anio": 2020, "precio": 50000000, "imagen": "https://www.aeroflap.com.br/wp-content/uploads/2020/12/Su-57.jpg", "detalles": { "velocidad_maxima": "Mach 2.0", "alcance": "3,500 km", "capacidad": "1 piloto" } },
+  { "id": 36, "modelo": "F-22 Raptor", "fabricante": "Lockheed Martin", "categoria": "Militar", "anio": 2005, "precio": 150000000, "imagen": "https://theaviationist.com/wp-content/uploads/2016/03/F-22-Raptor.jpg", "detalles": { "velocidad_maxima": "Mach 2.25", "alcance": "2,960 km", "capacidad": "1 piloto" } },
+  { "id": 37, "modelo": "B-2 Spirit", "fabricante": "Northrop Grumman", "categoria": "Militar", "anio": 1997, "precio": 2000000000, "imagen": "https://th.bing.com/th/id/R.0f77f935d537be0cdafa2b9108293f21?rik=RqQjeS5zm2qi6A&pid=ImgRaw&r=0", "detalles": { "velocidad_maxima": "Mach 0.95", "alcance": "11,000 km", "capacidad": "2 pilotos" } },
+  { "id": 38, "modelo": "A-10 Thunderbolt II 'Warthog'", "fabricante": "Fairchild Republic", "categoria": "Militar", "anio": 1977, "precio": 18800000, "imagen": "https://images04.military.com/sites/default/files/media/equipment/military-aircraft/a-10-thunderbolt-ii/2014/02/a-10-thunderbolt-ii_003.jpg", "detalles": { "velocidad_maxima": "706 km/h", "alcance": "4,150 km", "capacidad": "1 piloto" } },
+  { "id": 39, "modelo": "Boeing F/A-18 Super Hornet", "fabricante": "Boeing", "categoria": "Militar", "anio": 1999, "precio": 70000000, "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/de/US_Navy_071203-N-8923M-074_An_F-A-18F_Super_Hornet%2C_from_the_Red_Rippers_of_Strike_Fighter_Squadron_%28VFA%29_11%2C_makes_a_sharp_turn_above_the_flight_deck_aboard_the_Nimitz-class_nuclear-powered_aircraft_carrier_USS_Harry_S._Truman.jpg", "detalles": { "velocidad_maxima": "Mach 1.8", "alcance": "2,346 km", "capacidad": "1-2 pilotos" } },
+  { "id": 40, "modelo": "Chengdu J-20", "fabricante": "Chengdu Aerospace", "categoria": "Militar", "anio": 2017, "precio": 110000000, "imagen": "https://www.airteamimages.com/pics/318/318893_big.jpg", "detalles": { "velocidad_maxima": "Mach 2.0", "alcance": "6,000 km", "capacidad": "1 piloto" } },
+  { "id": 41, "modelo": "C-130 Hercules", "fabricante": "Lockheed Martin", "categoria": "Militar", "anio": 1956, "precio": 30000000, "imagen": "https://www.argentina.gob.ar/sites/default/files/2023/06/el-nuevo-c130-emprende-viaje-hacia-la-argentina-01.jpg", "detalles": { "velocidad_maxima": "592 km/h", "alcance": "3,800 km", "capacidad": "92 soldados" } },
+  
+  { "id": 10, "modelo": "Cirrus Vision Jet G2+", "fabricante": "Cirrus Aircraft", "categoria": "Jet Personal", "anio": 2021, "precio": 3250000, "imagen": "https://skyaviationholdings.com/wp-content/uploads/2023/06/VISIONJETG2_SAH-14_062309.jpg", "detalles": { "velocidad_maxima": "560 km/h", "alcance": "2,315 km", "capacidad": "7 ocupantes" } },
+  { "id": 19, "modelo": "Stratos 716X", "fabricante": "Stratos Aircraft", "categoria": "Jet Personal", "anio": 2023, "precio": 3500000, "imagen": "https://cdn.jetphotos.com/full/6/1436493_1691055130.jpg", "detalles": { "velocidad_maxima": "769 km/h", "alcance": "2,778 km", "capacidad": "6 ocupantes" } },
+  { "id": 42, "modelo": "Embraer Phenom 100EX", "fabricante": "Embraer", "categoria": "Jet Personal", "anio": 2023, "precio": 4995000, "imagen": "https://www.aeroflap.com.br/wp-content/uploads/2023/10/Phenom-100EX-Exterior-1-1200x800-7b317c83-02a7-4d37-92b6-e9097134e329.jpg", "detalles": { "velocidad_maxima": "752 km/h", "alcance": "2,182 km", "capacidad": "7 ocupantes" } },
+  { "id": 43, "modelo": "Eclipse 550", "fabricante": "Eclipse Aerospace", "categoria": "Jet Personal", "anio": 2014, "precio": 2995000, "imagen": "https://imgproc.airliners.net/photos/airliners/7/0/0/5146007.jpg?v=v4e9aedd91a6", "detalles": { "velocidad_maxima": "694 km/h", "alcance": "2,084 km", "capacidad": "6 ocupantes" } },
+  { "id": 44, "modelo": "Daher TBM 960", "fabricante": "Daher", "categoria": "Jet Personal", "anio": 2022, "precio": 4800000, "imagen": "https://www.aerobuzz.fr/wp-content/uploads/2023/03/2023_TBM-960_demo-9.jpg", "detalles": { "velocidad_maxima": "611 km/h", "alcance": "3,204 km", "capacidad": "6 ocupantes" } },
+  { "id": 45, "modelo": "Pilatus PC-12 NGX", "fabricante": "Pilatus Aircraft", "categoria": "Jet Personal", "anio": 2019, "precio": 5400000, "imagen": "https://imgproc.airliners.net/photos/airliners/5/3/1/6468135.jpg?v=v45c7c9f0ae4", "detalles": { "velocidad_maxima": "537 km/h", "alcance": "3,426 km", "capacidad": "10 ocupantes" } },
+  { "id": 46, "modelo": "Piper M600/SLS", "fabricante": "Piper Aircraft", "categoria": "Jet Personal", "anio": 2020, "precio": 3300000, "imagen": "https://europeanaircraftsales.com/wp-content/uploads/2021/07/web_EDIT_IMG_0386.jpg", "detalles": { "velocidad_maxima": "507 km/h", "alcance": "2,748 km", "capacidad": "6 ocupantes" } },
+  { "id": 47, "modelo": "Beechcraft King Air 360", "fabricante": "Textron Aviation", "categoria": "Jet Personal", "anio": 2020, "precio": 8500000, "imagen": "https://media.sandhills.com/n360k-2020-beechcraft-king-air-360/img.axd?id=7028888441&wid=6072144879&rwl=False&p=&ext=&w=0&h=0&t=&lp=&c=True&wt=False&sz=Max&rt=0&checksum=gNlw20UQlxVogJQGO6T0WTorq%2bf7xkwch4yDo2Fzx1I%3d", "detalles": { "velocidad_maxima": "578 km/h", "alcance": "3,345 km", "capacidad": "11 ocupantes" } },
+  { "id": 48, "modelo": "Epic E1000 GX", "fabricante": "Epic Aircraft", "categoria": "Jet Personal", "anio": 2021, "precio": 4100000, "imagen": "https://i1.wp.com/www.aironline.nl/weblog/wp-content/uploads/2021/08/IMG_2115-N831VF-Epic-E1000-GX-Lelystad-18-augustus-2021.jpg?resize=1536%2C1024&ssl=1", "detalles": { "velocidad_maxima": "617 km/h", "alcance": "3,019 km", "capacidad": "6 ocupantes" } },
+  { "id": 49, "modelo": "Fouga Magister (Personalizado)", "fabricante": "Fouga", "categoria": "Jet Personal", "anio": 1956, "precio": 150000, "imagen": "https://imgproc.airliners.net/photos/airliners/7/6/7/1295767.jpg?v=v40", "detalles": { "velocidad_maxima": "715 km/h", "alcance": "1,200 km", "capacidad": "2 ocupantes" } },
+  
+  { "id": 12, "modelo": "Boom Overture", "fabricante": "Boom Supersonic", "categoria": "Supersónico", "anio": 2029, "precio": 200000000, "imagen": "https://boomsupersonic.com/static/images/overture-hero.jpg", "detalles": { "velocidad_maxima": "Mach 1.7", "alcance": "7,867 km", "capacidad": "80 pasajeros" } },
+  { "id": 20, "modelo": "Spike S-512", "fabricante": "Spike Aerospace", "categoria": "Supersónico", "anio": 2028, "precio": 125000000, "imagen": "https://fightersweep.com/wp-content/uploads/2017/10/Spike-aerospace-S-512.jpg", "detalles": { "velocidad_maxima": "Mach 1.6", "alcance": "11,500 km", "capacidad": "18 pasajeros" } },
+  { "id": 50, "modelo": "Concorde", "fabricante": "Aérospatiale / BAC", "categoria": "Supersónico", "anio": 1976, "precio": 200000000, "imagen": "https://www.pinterpolitik.com/wp-content/uploads/2023/10/concorde.webp", "detalles": { "velocidad_maxima": "Mach 2.04", "alcance": "7,250 km", "capacidad": "100 pasajeros" } },
+  
+  { "id": 21, "modelo": "Airbus H160 (ACH160)", "fabricante": "Airbus Helicopters", "categoria": "Helicóptero de Lujo", "anio": 2021, "precio": 22000000, "imagen": "https://www.ainonline.com/cdn-cgi/image/width=3840,format=webp,quality=95/https://backend.ainonline.com/sites/default/files/styles/fpsc_1200x630/public/uploads/2023/05/ach160_web_5dwm2372.jpg?h=4c455c19&itok=cQ7DSDg3", "detalles": { "velocidad_maxima": "296 km/h", "alcance": "852 km", "capacidad": "12 pasajeros" } },
+  { "id": 22, "modelo": "Bell 525 Relentless", "fabricante": "Bell Textron", "categoria": "Helicóptero de Lujo", "anio": 2023, "precio": 26000000, "imagen": "https://imgproc.airliners.net/photos/airliners/1/8/9/2815981.jpg?v=v40", "detalles": { "velocidad_maxima": "306 km/h", "alcance": "926 km", "capacidad": "16 pasajeros" } },
+  { "id": 23, "modelo": "Leonardo AW609 Tiltrotor", "fabricante": "Leonardo S.p.A.", "categoria": "Helicóptero de Lujo", "anio": 2024, "precio": 25000000, "imagen": "https://hlcopters.com/wp-content/uploads/2021/11/AW609_DAS_2021_2-01-scaled.jpeg", "detalles": { "velocidad_maxima": "509 km/h", "alcance": "1,389 km", "capacidad": "9 pasajeros" } },
+  { "id": 24, "modelo": "Sikorsky S-92 (VIP)", "fabricante": "Sikorsky Aircraft", "categoria": "Helicóptero de Lujo", "anio": 2004, "precio": 32000000, "imagen": "https://th.bing.com/th/id/R.b0aab247036be8b877a57189996748ba?rik=HR6LdRJYSD9zOg&riu=http%3a%2f%2fmedia-cache-ak0.pinimg.com%2f736x%2f7a%2f29%2f49%2f7a2949a37a33cbe15c91677c2c5980a5.jpg&ehk=CAh826GvTXlYpDFKMUQ1ikWNbfudhF8fU9yzE1JjXSM%3d&risl=&pid=ImgRaw&r=0", "detalles": { "velocidad_maxima": "306 km/h", "alcance": "999 km", "capacidad": "10 (VIP)" } },
+  { "id": 51, "modelo": "Bell 429 GlobalRanger", "fabricante": "Bell Textron", "categoria": "Helicóptero de Lujo", "anio": 2009, "precio": 7500000, "imagen": "https://th.bing.com/th/id/R.ad8c1ff85550155368698670af3414d1?rik=pUfQd%2fPEM3EsiA&pid=ImgRaw&r=0", "detalles": { "velocidad_maxima": "287 km/h", "alcance": "761 km", "capacidad": "7 pasajeros" } },
+  { "id": 52, "modelo": "MD 902 Explorer", "fabricante": "MD Helicopters", "categoria": "Helicóptero de Lujo", "anio": 1994, "precio": 6500000, "imagen": "https://th.bing.com/th/id/R.3563d374bac47deee58b2157b02d1eb1?rik=jIQiCUGOcKgdkQ&pid=ImgRaw&r=0", "detalles": { "velocidad_maxima": "259 km/h", "alcance": "543 km", "capacidad": "7 pasajeros" } },
+  { "id": 53, "modelo": "Leonardo AW139", "fabricante": "Leonardo S.p.A.", "categoria": "Helicóptero de Lujo", "anio": 2003, "precio": 12000000, "imagen": "https://cdn.planespotters.net/46229/i-awtq-leonardo-helicopters-agustawestland-aw139_PlanespottersNet_927264_ad6f190c26_o.jpg", "detalles": { "velocidad_maxima": "310 km/h", "alcance": "1,061 km", "capacidad": "15 pasajeros" } },
+  { "id": 54, "modelo": "Robinson R66 Turbine Marine", "fabricante": "Robinson Helicopter", "categoria": "Helicóptero de Lujo", "anio": 2012, "precio": 1200000, "imagen": "https://media.sandhills.com/img.axd?id=7178201557&wid=4326165471&rwl=False&p=&ext=&w=0&h=0&t=&lp=&c=True&wt=False&sz=Max&rt=0&checksum=E1ebFmOhYFbNzzzscvSWOtVhSBnIwaHOmcOPB9GmvC8%3d", "detalles": { "velocidad_maxima": "259 km/h", "alcance": "602 km", "capacidad": "4 pasajeros" } },
+  { "id": 55, "modelo": "Eurocopter EC155 (H155)", "fabricante": "Airbus Helicopters", "categoria": "Helicóptero de Lujo", "anio": 1999, "precio": 10000000, "imagen": "https://th.bing.com/th/id/R.31df179efb0851d91f5125a7933240bf?rik=PMkgcQiiHar4KQ&riu=http%3a%2f%2fwww.flugzeuginfo.net%2facimages%2fec155_mikevallentin.jpg&ehk=w5ltMeFVAKMlqXH6%2fT6tYvLbDvusmDk6hCeWb8o%2fchk%3d&risl=&pid=ImgRaw&r=0", "detalles": { "velocidad_maxima": "324 km/h", "alcance": "857 km", "capacidad": "13 pasajeros" } },
+  { "id": 56, "modelo": "Kamov Ka-62", "fabricante": "Kamov", "categoria": "Helicóptero de Lujo", "anio": 2021, "precio": 10000000, "imagen": "https://imgproc.airliners.net/photos/airliners/0/8/6/2308680.jpg?v=v40", "detalles": { "velocidad_maxima": "308 km/h", "alcance": "770 km", "capacidad": "15 pasajeros" } },
+
+  { "id": 25, "modelo": "Viking DHC-6 Twin Otter (Amphibian)", "fabricante": "Viking Air", "categoria": "Avión Anfibio", "anio": 2010, "precio": 7000000, "imagen": "https://imgproc.airliners.net/photos/airliners/9/8/6/6160689.jpg?v=v4661850beab", "detalles": { "velocidad_maxima": "314 km/h", "alcance": "1,435 km", "capacidad": "19 pasajeros" } },
+  { "id": 26, "modelo": "ICON A5", "fabricante": "ICON Aircraft", "categoria": "Avión Anfibio", "anio": 2018, "precio": 389000, "imagen": "https://www.iconaircraft.com/wp-content/uploads/2023/07/Electric-Blue_ICONA5_Web.jpg", "detalles": { "velocidad_maxima": "176 km/h", "alcance": "791 km", "capacidad": "2 ocupantes" } },
+  { "id": 27, "modelo": "Cessna Caravan Amphibian", "fabricante": "Textron Aviation", "categoria": "Avión Anfibio", "anio": 1985, "precio": 2600000, "imagen": "https://tadistributors.com/wp-content/uploads/2021/08/Caravan-Amphibian-3-scaled.jpg", "detalles": { "velocidad_maxima": "324 km/h", "alcance": "1,796 km", "capacidad": "14 ocupantes" } },
+  { "id": 57, "modelo": "Beriev Be-200", "fabricante": "Beriev Aircraft Company", "categoria": "Avión Anfibio", "anio": 2003, "precio": 40000000, "imagen": "https://alchetron.com/cdn/beriev-be-200-87554be4-ec48-4252-94f8-383b49135ea-resize-750.jpeg", "detalles": { "velocidad_maxima": "700 km/h", "alcance": "3,300 km", "capacidad": "44 pasajeros" } },
+  { "id": 58, "modelo": "Grumman G-21 Goose", "fabricante": "Grumman", "categoria": "Avión Anfibio", "anio": 1937, "precio": 500000, "imagen": "https://tse4.mm.bing.net/th/id/OIP.hI479HUC-4EOt46HepPvoAHaE8?rs=1&pid=ImgDetMain&o=7&rm=3", "detalles": { "velocidad_maxima": "323 km/h", "alcance": "1,030 km", "capacidad": "7 ocupantes" } },
+  { "id": 59, "modelo": "ShinMaywa US-2", "fabricante": "ShinMaywa", "categoria": "Avión Anfibio", "anio": 2007, "precio": 100000000, "imagen": "https://th.bing.com/th/id/R.eb23cd4bd4559f74aeff9b9e2cc14b92?rik=OaE3M7v%2fzyqw4g&pid=ImgRaw&r=0", "detalles": { "velocidad_maxima": "560 km/h", "alcance": "4,700 km", "capacidad": "20 pasajeros" } },
+  { "id": 60, "modelo": "Canadair CL-415", "fabricante": "Viking Air", "categoria": "Avión Anfibio", "anio": 1994, "precio": 37000000, "imagen": "https://th.bing.com/th/id/R.fb0eb6a4a0b5dac6bb8711b24d8c64e4?rik=hY8%2b42B9uwOWqg&riu=http%3a%2f%2ffly-news.es%2fwp-content%2fuploads%2fCL_415_Espana02.jpg&ehk=B5w3aIOeRPhwFxcgjIoVl5Csm7ufHikALsTUvBxyYtg%3d&risl=&pid=ImgRaw&r=0", "detalles": { "velocidad_maxima": "359 km/h", "alcance": "2,443 km", "capacidad": "Contra incendios" } },
+  { "id": 61, "modelo": "Dornier Seastar", "fabricante": "Dornier Seawings", "categoria": "Avión Anfibio", "anio": 2020, "precio": 7000000, "imagen": "https://tse3.mm.bing.net/th/id/OIP.ts-aLEOYZkHNX4Hl5J0FVQHaEs?rs=1&pid=ImgDetMain&o=7&rm=3", "detalles": { "velocidad_maxima": "333 km/h", "alcance": "1,667 km", "capacidad": "12 ocupantes" } },
+  { "id": 62, "modelo": "Wipaire Fire Boss", "fabricante": "Wipaire / Air Tractor", "categoria": "Avión Anfibio", "anio": 2003, "precio": 3000000, "imagen": "https://s1.eestatic.com/2022/02/21/actualidad/651945519_222060575_1706x960.jpg", "detalles": { "velocidad_maxima": "356 km/h", "alcance": "1,296 km", "capacidad": "Contra incendios" } },
+  { "id": 63, "modelo": "Catalina II (NG)", "fabricante": "Catalina Aircraft", "categoria": "Avión Anfibio", "anio": 2029, "precio": 50000000, "imagen": "https://imgproc.airliners.net/photos/airliners/1/2/7/6301721.jpg?v=v4d12ef940a6", "detalles": { "velocidad_maxima": "370 km/h", "alcance": "3,000 km", "capacidad": "34 pasajeros" } }
 ]
